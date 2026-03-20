@@ -1,6 +1,6 @@
-# 🛡️ Zyro AI Insurance
+# 🛡️ Shxld AI Insurance
 
-Zyro is an AI-powered parametric insurance platform designed to protect gig workers from income loss caused by environmental and external disruptions.
+Shxld is an AI-powered parametric insurance platform designed to protect gig workers from income loss caused by environmental and external disruptions.
 
 ---
 
@@ -21,7 +21,7 @@ Currently, there is **no system that protects their earnings**, making their inc
 
 ## 💡 Solution
 
-Zyro provides **automated income protection** using a parametric insurance model.
+Shxld provides **automated income protection** using a parametric insurance model.
 
 Instead of manual claims, the system:
 
@@ -52,7 +52,7 @@ A delivery partner (e.g., a Swiggy rider in Chennai) who depends on daily earnin
 ## 🔁 System Workflow (Zero-Touch Claim Engine)
 
 ```text
-Worker registers on Zyro platform
+Worker registers on Shxld platform
 → selects weekly insurance plan
 → system monitors external data (weather, AQI, temperature, etc.)
 → disruption threshold is crossed
@@ -67,7 +67,7 @@ This workflow enables fully automated, real-time claim processing with built-in 
 
 ## 🌍 Parametric Triggers
 
-Zyro uses predefined thresholds to detect disruptions:
+Shxld uses predefined thresholds to detect disruptions:
 
 - Rainfall > 50mm/day → delivery disruption  
 - AQI > 300 → unsafe working conditions  
@@ -79,7 +79,7 @@ These triggers ensure objective and automatic claim activation.
 
 ## 💰 Weekly Premium Model
 
-Zyro follows a weekly pricing model aligned with gig worker earnings:
+Shxld follows a weekly pricing model aligned with gig worker earnings:
 
 - Low Risk Area → ₹20/week  
 - Medium Risk Area → ₹30/week  
@@ -95,7 +95,7 @@ Zyro follows a weekly pricing model aligned with gig worker earnings:
 
 ## 🤖 AI Integration
 
-Zyro leverages AI in multiple components:
+Shxld leverages AI in multiple components:
 
 ### 1. Risk Assessment
 - Predicts disruption probability for a location  
@@ -113,7 +113,7 @@ Zyro leverages AI in multiple components:
 
 ## 🛡️ Adversarial Defense & Anti-Spoofing Strategy
 
-To handle the Market Crash scenario, Zyro implements a multi-layer fraud detection system:
+To handle the Market Crash scenario, Shxld implements a multi-layer fraud detection system:
 
 ### 🚨 Fraud Scenarios
 
@@ -194,4 +194,4 @@ This ensures genuine users are not unfairly penalized.
 
 ## 🚀 Conclusion
 
-Zyro transforms traditional insurance into a proactive, automated system. By combining AI, parametric triggers, and fraud-resistant mechanisms, it ensures gig workers are financially protected during disruptions — instantly, fairly, and efficiently.
+Shxld transforms traditional insurance into a proactive, automated system. By combining AI, parametric triggers, and fraud-resistant mechanisms, it ensures gig workers are financially protected during disruptions — instantly, fairly, and efficiently.
