@@ -61,6 +61,7 @@ Worker registers on Zyro platform
 → fraud detection & validation layer is applied
 → payout is processed instantly
 ```
+This workflow enables fully automated, real-time claim processing with built-in fraud validation.
 
 ---
 
